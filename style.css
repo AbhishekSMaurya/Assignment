@@ -1,0 +1,152 @@
+*{
+    margin:0;
+    padding:0;
+}
+/* Code of First Page */
+.text{
+    display: flex;
+    float:right;
+}
+
+.settings{
+    margin-right: 50px;
+    height:100vh;
+}
+.home{
+    display:flex;
+}
+.start{
+    margin-top:2px;
+}
+.img{
+    width:40%;
+}
+.h-secondary{
+    font-size:35px;
+    font-weight: bold;
+}
+.opt{
+    display:flex;
+    margin-top:29px;
+}
+
+.home input{
+    border-radius:8px;
+}
+
+/* Second Page of the Project */
+.content{
+    align-items:center;
+    text-align:center;
+}
+
+
+
+.before-content {
+    margin-right:326px;
+}
+
+.circle{
+    margin-top:3rem;
+    border:2px dashed black;
+    border-radius:102px;
+    width:15%;
+    height:10rem;
+    margin-left: 32rem;
+}
+
+.side-content{
+    margin:-114px 236px;
+    display:flex;
+    flex-direction: column;
+    float:right;
+}
+
+.last-content{
+    margin-right:314px;
+}
+
+.int{
+    margin-left:3rem;
+}
+
+/* Both third and fourth have same design but there is one change */
+.circle img{
+    border-radius: 79px;
+}
+
+/* Fourth Page  */
+.contentarea{
+    text-align:center;
+    align-items: center;
+}
+
+.containers{
+    border: 1px solid #00000036;
+    width: 16rem;
+    padding: 24px;
+    margin: 0px 1rem;
+}
+
+.containers input{
+    width: 1rem;
+    height: 3rem;
+}
+
+.containers:hover{
+    border:2px solid pink;
+    border-radius:14px;
+}
+
+.boxes{
+    margin-left: 23rem;
+}
+
+/* Last Page */
+.between{
+    text-align:center;
+    align-items: center;
+}
+
+.links{
+    text-align: center;
+}
+
+.links p{
+    cursor: pointer;
+}
+
+.links p:hover{
+    text-decoration: underline;
+}
+
+/* Utility Classes */
+.mg-x{
+    margin-right:2rem;
+}
+
+.btn-3{
+    margin-left: 4rem;
+    border-radius: 9px;
+}
+
+.btn-2{
+    padding:5px 0px;
+    background-color: white;
+    font-weight:bold;
+    margin:12px;
+    border:1px solid black;
+}
+
+.font-fm{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.btn{
+    border-radius:13px;
+}
+
+.right{
+    float:right;
+}
+
